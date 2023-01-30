@@ -41,7 +41,7 @@ npx react-native@latest init app --template react-native-template-typescript
 
 ```
 
-## Using VSCode
+## Using VSCode [typescript](https://www.nativewind.dev/getting-started/typescript)
 
 ```
 npx react-native start
