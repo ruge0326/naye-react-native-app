@@ -1,12 +1,14 @@
 # Welcome to React Native App!
 
-It is a basic React App realtime app.
+It is a React Native Realtime App.
 
 # Stack
 
-- React
+- React Native
 - Typescript
 - Tailwind
+- NativeWind
+- Windstitch
 
 # References
 
@@ -41,7 +43,7 @@ npx react-native@latest init app --template react-native-template-typescript
 
 ```
 
-## Using VSCode
+## Using VSCode [typescript](https://www.nativewind.dev/getting-started/typescript)
 
 ```
 npx react-native start
@@ -54,3 +56,5 @@ npx react-native run-ios
 yarn add nativewind
 yarn add --dev tailwindcss
 ```
+
+### [React Native Alias](https://www.reactnativeschool.com/how-to-setup-path-alias-in-a-react-native-typescript-app)
