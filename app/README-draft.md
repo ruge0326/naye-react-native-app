@@ -1,10 +1,10 @@
 # Welcome to React Native App!
 
-It is a React Native Realtime App.
+It is a basic React App realtime app.
 
 # Stack
 
-- React Native
+- React
 - Typescript
 - Tailwind
 - NativeWind

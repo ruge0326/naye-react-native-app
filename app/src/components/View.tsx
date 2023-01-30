@@ -1,19 +1,10 @@
 import {StatusBar, Text, View} from 'react-native';
-import styled, {W, w} from './../libs/windstitch';
-import {t} from '../utils';
+import styled, {W} from 'src/libs/windstitch';
+import {t} from 'src/utils';
 
 const ContainerV = styled(View, {
   variants: {
     color: {
-      gray: t`
-        bg-gray-300
-        hover:bg-gray-400
-        dark:bg-gray-700
-        dark:hover:bg-gray-600
-        text-gray-900
-        dark:text-white
-        ring-gray-400
-      `,
       violet: t`
         bg-violet-500
         hover:bg-violet-400
@@ -45,7 +36,7 @@ export const NView = () => (
   <ContainerV color="violet">
     <Text>
       {new Date().toLocaleString()}
-      {' Love 1'}
+      {' Love Coding'}
     </Text>
     <StatusBar />
   </ContainerV>
