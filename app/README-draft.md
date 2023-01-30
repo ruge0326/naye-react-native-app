@@ -58,3 +58,12 @@ yarn add --dev tailwindcss
 ```
 
 ### [React Native Alias](https://www.reactnativeschool.com/how-to-setup-path-alias-in-a-react-native-typescript-app)
+
+### Tailwind Components
+
+https://www.tailwindtoolbox.com/starter-components
+https://daisyui.com/docs/themes/
+
+### React Native Components
+
+https://reactnativeelements.com/docs/components/chip
