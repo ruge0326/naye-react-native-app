@@ -6,17 +6,13 @@
  */
 
 import React from 'react';
-import {StatusBar, Text, View} from 'react-native';
+import {NView} from './src/components/View';
 
 function App(): JSX.Element {
   return (
-    <View className="flex-1 items-center justify-center bg-blue-300">
-      <Text>
-        {new Date().toLocaleString()}
-        {' Tailwind'}
-      </Text>
-      <StatusBar />
-    </View>
+    <>
+      <NView></NView>
+    </>
   );
 }
 
