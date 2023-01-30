@@ -36,7 +36,7 @@ export const NView = () => (
   <ContainerV color="violet">
     <Text>
       {new Date().toLocaleString()}
-      {' Love Coding'}
+      {' Love Coding I'}
     </Text>
     <StatusBar />
   </ContainerV>
